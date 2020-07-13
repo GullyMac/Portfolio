@@ -2,7 +2,7 @@
 Summarized Portfolio about Data Analysis
 
 * [StarCraft2 Player Data Analysis](#starcraft2-player-data-analysis)
-* [Google Play Store Apps Rating Prediction](##google-play-store-apps-rating-prediction)
+* [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction)
 
 ---
 
@@ -39,7 +39,7 @@ Summarized Portfolio about Data Analysis
 
 ---
 
-## Google Play Store Apps Rating Prediction
+# Google Play Store Apps Rating Prediction
 
 <div>
   <img width="500" src="https://user-images.githubusercontent.com/44144937/87302524-80f5cc00-c54c-11ea-8da3-55fc17704af6.JPG">
