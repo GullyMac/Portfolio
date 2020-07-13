@@ -34,4 +34,26 @@ Summarized Portfolio about Data Analysis
   <img width="500" src="https://user-images.githubusercontent.com/44144937/87301769-1beda680-c54b-11ea-97b0-f6098420e9bd.JPG">  
 </div>  
 
+---
 
+## Google Play Store Apps Rating Prediction
+
+<div>
+  <img width="500" src="https://user-images.githubusercontent.com/44144937/87302524-80f5cc00-c54c-11ea-8da3-55fc17704af6.JPG">
+  <img width="500" src="https://user-images.githubusercontent.com/44144937/87302528-818e6280-c54c-11ea-9b89-0e5bcb05d05a.JPG">
+</div>
+<div>
+  <img width="500" src="https://user-images.githubusercontent.com/44144937/87302529-8226f900-c54c-11ea-9112-3982aa098ad8.JPG">
+  <img width="500" src="https://user-images.githubusercontent.com/44144937/87302530-82bf8f80-c54c-11ea-9e0e-1a8e0f873f16.JPG">
+</div>
+<div>
+  <img width="500" src="https://user-images.githubusercontent.com/44144937/87302531-83582600-c54c-11ea-85f6-4cf5682719cd.JPG">
+  <img width="500" src="https://user-images.githubusercontent.com/44144937/87302533-83f0bc80-c54c-11ea-82c0-3d22922c93b6.JPG">
+</div>
+<div>
+  <img width="500" src="https://user-images.githubusercontent.com/44144937/87302535-83f0bc80-c54c-11ea-8991-71e1838b351b.JPG">
+  <img width="500" src="https://user-images.githubusercontent.com/44144937/87302536-84895300-c54c-11ea-8263-1b7f4848ca1d.JPG">
+</div>
+<div>
+  <img width="500" src="https://user-images.githubusercontent.com/44144937/87302541-8521e980-c54c-11ea-83b0-ec4ad26f79c5.JPG">
+</div>
