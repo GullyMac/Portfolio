@@ -1,6 +1,9 @@
 # Portfolio
 Summarized Portfolio about Data Analysis
 
+* [StarCraft2 Player Data Analysis](##-starcraft2-player-data-analysis)
+* [Google Play Store Apps Rating Prediction](##-google-play-store-apps-rating-prediction)
+
 ---
 
 ## StarCraft2 Player Data Analysis
