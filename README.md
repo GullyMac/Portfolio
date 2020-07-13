@@ -9,8 +9,8 @@ Summarized Portfolio about Data Analysis
 # StarCraft2 Player Data Analysis
 
 <div>
-  <img width="500" src="https://user-images.githubusercontent.com/44144937/87301736-12fcd500-c54b-11ea-99c7-90ab57ef7fe3.JPG">
-  <img width="500" src="https://user-images.githubusercontent.com/44144937/87301741-13956b80-c54b-11ea-8591-192b50780a11.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301736-12fcd500-c54b-11ea-99c7-90ab57ef7fe3.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301741-13956b80-c54b-11ea-8591-192b50780a11.JPG">
 </div>
 <div>
   <img width="500" src="https://user-images.githubusercontent.com/44144937/87301743-142e0200-c54b-11ea-89b7-052bf251cf86.JPG">
