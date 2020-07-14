@@ -9,32 +9,31 @@ Summarized Portfolio about Data Analysis
 # StarCraft2 Player Data Analysis
 
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301736-12fcd500-c54b-11ea-99c7-90ab57ef7fe3.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301741-13956b80-c54b-11ea-8591-192b50780a11.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465051-0feb0d00-c64f-11ea-9dd2-275f40d6f361.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465054-1083a380-c64f-11ea-8209-94a05e1211df.JPG">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301743-142e0200-c54b-11ea-89b7-052bf251cf86.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301745-14c69880-c54b-11ea-8061-d814b09d979c.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465059-111c3a00-c64f-11ea-85dc-c1b1e9c03251.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465061-11b4d080-c64f-11ea-89a5-7872f36f5720.JPG">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301746-155f2f00-c54b-11ea-90b9-ac8554e03abd.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301749-15f7c580-c54b-11ea-9660-56ec96f481c9.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465062-124d6700-c64f-11ea-9c65-8f1b2225ea19.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465065-12e5fd80-c64f-11ea-8716-4ef8de30fbd4.JPG">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301751-1728f280-c54b-11ea-9f87-c2aad5802954.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301753-17c18900-c54b-11ea-9083-1fb82307be3f.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465067-12e5fd80-c64f-11ea-8db1-8f99e71f51fc.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465068-137e9400-c64f-11ea-8533-95920078b068.JPG">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301757-185a1f80-c54b-11ea-8008-6f15385871c7.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301758-18f2b600-c54b-11ea-9756-4d9ce0caca32.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465071-14172a80-c64f-11ea-9bbb-20c4ed2d51e1.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465074-14172a80-c64f-11ea-85fc-010536605a69.JPG">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301760-198b4c80-c54b-11ea-8321-6f7c2f123f9f.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301763-1a23e300-c54b-11ea-96bc-9e28968f6a7b.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465075-14afc100-c64f-11ea-8259-6a6401e4feeb.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465077-15485780-c64f-11ea-8ec4-74498ed6ea55.JPG">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301767-1abc7980-c54b-11ea-80a7-86d0ad723627.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87301769-1beda680-c54b-11ea-97b0-f6098420e9bd.JPG">  
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465081-15485780-c64f-11ea-9c15-7cf506483b43.JPG">
 </div>  
 
 ---
