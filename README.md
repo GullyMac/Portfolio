@@ -1,12 +1,40 @@
 # Portfolio
-Summarized Portfolio about Data Analysis
+Summarized Portfolio for Data Analysis
 
-* [StarCraft2 Player Data Analysis](#starcraft2-player-data-analysis)
 * [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction)
+* [StarCraft2 Player Data Analysis](#starcraft2-player-data-analysis)
+
+---
+
+# Google Play Store Apps Rating Prediction
+
+[detail](https://github.com/GullyMac/PlayStore)
+
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87489795-e6e27080-c67e-11ea-8fe7-25b019e2885d.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87489799-e8139d80-c67e-11ea-9764-d72f1e297816.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87489801-e8ac3400-c67e-11ea-8df8-03d23fc8919c.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87489803-e944ca80-c67e-11ea-8827-b98a70ab63fa.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87489805-e9dd6100-c67e-11ea-96e3-aeca75606542.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87489806-ea75f780-c67e-11ea-9b08-cf7189e4b7de.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87489807-eb0e8e00-c67e-11ea-875c-ab5af0edf798.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87489808-ec3fbb00-c67e-11ea-919f-782dbf15cb30.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/87489812-ecd85180-c67e-11ea-9867-9fad90a86e7b.JPG">
+</div>
 
 ---
 
 # StarCraft2 Player Data Analysis
+
+[detail](https://github.com/GullyMac/Game)
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/44144937/87465051-0feb0d00-c64f-11ea-9dd2-275f40d6f361.JPG">
@@ -35,27 +63,3 @@ Summarized Portfolio about Data Analysis
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/44144937/87465081-15485780-c64f-11ea-9c15-7cf506483b43.JPG">
 </div>  
-
----
-
-# Google Play Store Apps Rating Prediction
-
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87302524-80f5cc00-c54c-11ea-8da3-55fc17704af6.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87302528-818e6280-c54c-11ea-9b89-0e5bcb05d05a.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87302529-8226f900-c54c-11ea-9112-3982aa098ad8.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87302530-82bf8f80-c54c-11ea-9e0e-1a8e0f873f16.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87302531-83582600-c54c-11ea-85f6-4cf5682719cd.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87302533-83f0bc80-c54c-11ea-82c0-3d22922c93b6.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87302535-83f0bc80-c54c-11ea-8991-71e1838b351b.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87302536-84895300-c54c-11ea-8263-1b7f4848ca1d.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87302541-8521e980-c54c-11ea-83b0-ec4ad26f79c5.JPG">
-</div>
