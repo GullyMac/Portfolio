@@ -1,14 +1,30 @@
 # Portfolio
 Summarized Portfolio for Data Analysis
 
-* [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction)
-* [StarCraft2 Player Data Analysis](#starcraft2-player-data-analysis)
+> [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction)
+>> 개인 프로젝트\
+>> 수행 기간 : 20.06.12 ~ 20.06.15 (4일)\
+>> 내용 : 회귀 모델링\
+>> 기술 : 언어 – Python / 툴 – Google Colab
+
+> [StarCraft2 Player Data Analysis](#starcraft2-player-data-analysis)
+>> 팀 프로젝트 (3인, 경진대회 2위/94팀)\
+>> 수행 기간 : 20.03.01 ~ 20.04.15 (약 1.5개월)\
+>> 내용 : 이진 분류\
+>> 역할 : 데이터 전처리, 소스코드 커스터마이징\
+>> 기술 : 언어 – Python / 툴 – Google Colab
+
 
 ---
 
 # Google Play Store Apps Rating Prediction
 
-[detail](https://github.com/GullyMac/PlayStore)
+> 개인 프로젝트\
+> 수행 기간 : 20.06.12 ~ 20.06.15 (4일)\
+> 내용 : 회귀 모델링\
+> 기술 : 언어 – Python / 툴 – Google Colab
+
+[see detail](https://github.com/GullyMac/PlayStore)
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/44144937/87489795-e6e27080-c67e-11ea-8fe7-25b019e2885d.JPG">
@@ -34,7 +50,13 @@ Summarized Portfolio for Data Analysis
 
 # StarCraft2 Player Data Analysis
 
-[detail](https://github.com/GullyMac/Game)
+> 팀 프로젝트 (3인, 경진대회 2위/94팀)\
+> 수행 기간 : 20.03.01 ~ 20.04.15 (약 1.5개월)\
+> 내용 : 이진 분류\
+> 역할 : 데이터 전처리, 소스코드 커스터마이징\
+> 기술 : 언어 – Python / 툴 – Google Colab
+
+[see detail](https://github.com/GullyMac/Game)
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/44144937/87465051-0feb0d00-c64f-11ea-9dd2-275f40d6f361.JPG">
