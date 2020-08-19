@@ -116,7 +116,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
   <img width="400" src="https://user-images.githubusercontent.com/44144937/90663228-57833b00-e284-11ea-8641-63dcd6a10ac1.JPG">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90663230-581bd180-e284-11ea-9413-5fd03e5f5a35.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90694375-7b11aa00-e2b3-11ea-83a2-292f86651fc4.jpg">
 </div>
 
 ---
@@ -153,9 +153,9 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 </div>
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/44144937/87465075-14afc100-c64f-11ea-8259-6a6401e4feeb.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465077-15485780-c64f-11ea-8ec4-74498ed6ea55.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90694373-7947e680-e2b3-11ea-84e5-f5435221e520.jpg">
 </div>
 <div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/87465081-15485780-c64f-11ea-9c15-7cf506483b43.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90694374-7b11aa00-e2b3-11ea-9e64-a84d1f51e66f.jpg">
 </div>  
 
