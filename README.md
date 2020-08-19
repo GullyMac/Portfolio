@@ -1,28 +1,64 @@
-# Portfolio
-Summarized Portfolio for Data Analysis
+# 포트폴리오
+
+### 경험
+
+> LG CNS 인턴 근무 (2019.07 ~ 2019.08, 약 1개월)
+> - 금융 업무용 챗봇 성능 향상 과제 수행
+> - Python 언어 활용
+> - train 데이터의 비율, 알고리즘의 하이퍼파라미터 변화에 따른 성능 변화 측정
+> - 보고서 작성 및 발표
+
+> 롯데멤버스 인턴 근무 (2018.11 ~ 2019.06, 약 7개월)
+> - 점포/상품 데이터 클렌징
+> - 데이터 분석 목적에 맞는 컬럼 생성, 텍스트 추출
+> - Excel 활용하여 작업
+> - 팀원의 R 언어 사용 보조
+> - 비즈니스 컨설팅을 위한 관계자 인터뷰 보조
+
+### 기술
+
+> 데이터 처리, 통계 분석
+> - 언어 : Python, R, SAS
+> - 중급
+
+> 데이터베이스 관리
+> - 언어 : SQL
+> - 초급
+
+> 웹 프로그래밍, 화면 구현
+> - 언어 : HTML, CSS, JavaScript
+> - 입문
+
+> 기초 프로그래밍, 서버 통신 구현
+> - 언어 : Java
+> - 입문
+
+
+
+### 프로젝트
 
 > [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction)
->> 개인 프로젝트\
->> 수행 기간 : 20.06.12 ~ 20.06.15 (4일)\
->> 내용 : 회귀 모델링\
->> 기술 : 언어 – Python / 툴 – Google Colab
+> - 개인 프로젝트
+> - 수행 기간 : 20.06.12 ~ 20.06.15 (4일)
+> - 내용 : 회귀 모델링
+> - 기술 : 언어 – Python / 툴 – Google Colab
 
 > [StarCraft2 Player Data Analysis](#starcraft2-player-data-analysis)
->> 팀 프로젝트 (3인, 경진대회 2위/94팀)\
->> 수행 기간 : 20.03.01 ~ 20.04.15 (약 1.5개월)\
->> 내용 : 이진 분류\
->> 역할 : 데이터 전처리, 소스코드 커스터마이징\
->> 기술 : 언어 – Python / 툴 – Google Colab
+> - 팀 프로젝트 (3인, 경진대회 2위/94팀)
+> - 수행 기간 : 20.03.01 ~ 20.04.15 (약 1.5개월)
+> - 내용 : 이진 분류
+> - 역할 : 데이터 전처리, 소스코드 커스터마이징
+> - 기술 : 언어 – Python / 툴 – Google Colab
 
 
 ---
 
 # Google Play Store Apps Rating Prediction
 
-> 개인 프로젝트\
-> 수행 기간 : 20.06.12 ~ 20.06.15 (4일)\
-> 내용 : 회귀 모델링\
-> 기술 : 언어 – Python / 툴 – Google Colab
+- 개인 프로젝트
+- 수행 기간 : 20.06.12 ~ 20.06.15 (4일)
+- 내용 : 회귀 모델링
+- 기술 : 언어 – Python / 툴 – Google Colab
 
 [see detail](https://github.com/GullyMac/PlayStore)
 
@@ -50,11 +86,11 @@ Summarized Portfolio for Data Analysis
 
 # StarCraft2 Player Data Analysis
 
-> 팀 프로젝트 (3인, 경진대회 2위/94팀)\
-> 수행 기간 : 20.03.01 ~ 20.04.15 (약 1.5개월)\
-> 내용 : 이진 분류\
-> 역할 : 데이터 전처리, 소스코드 커스터마이징\
-> 기술 : 언어 – Python / 툴 – Google Colab
+- 팀 프로젝트 (3인, 경진대회 2위/94팀)
+- 수행 기간 : 20.03.01 ~ 20.04.15 (약 1.5개월)
+- 내용 : 이진 분류
+- 역할 : 데이터 전처리, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
 
 [see detail](https://github.com/GullyMac/Game)
 
