@@ -53,14 +53,15 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 회귀 모델링, 클러스터링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
+[see detail](https://github.com/GullyMac/Sales-Working-)
 
-##### [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction)
+##### [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction-1)
 - 개인 프로젝트
 - 수행 기간 : 20.06.12 ~ 20.06.15 (4일)
 - 내용 : 회귀 모델링
 - 기술 : 언어 – Python / 툴 – Google Colab
 
-##### [StarCraft2 Player Data Analysis](#starcraft2-player-data-analysis)
+##### [StarCraft2 Player Data Analysis](#starcraft2-player-data-analysis-1)
 - 팀 프로젝트 (3인, 경진대회 2위/94팀)
 - 수행 기간 : 20.03.01 ~ 20.04.15 (약 1.5개월)
 - 내용 : 이진 분류
@@ -73,6 +74,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 다중 분류
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
+[see detail](https://github.com/GullyMac/Astro)
 
 ##### Semiconductor Thin Film Thickness Prediction
 - 팀 프로젝트 (2인, 경진대회 7위/226팀)
@@ -80,6 +82,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 회귀 모델링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
+[see detail](https://github.com/GullyMac/Semicon)
 
 ##### Seoul's (Seoul, South Korea) Land Price Prediction
 - 팀 프로젝트 (4인, 고려대학교 진리장학금 수상)
@@ -87,6 +90,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 회귀 모델링, 클러스터링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
+[see detail](https://github.com/GullyMac/LandPrice)
 
 ---
 
