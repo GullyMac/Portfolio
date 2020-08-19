@@ -57,7 +57,7 @@
 - 내용 : 회귀 모델링
 - 기술 : 언어 – Python / 툴 – Google Colab
 
-[see detail](https://github.com/GullyMac/PlayStore)
+[see details](https://github.com/GullyMac/PlayStore)
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/44144937/90663544-c5c7fd80-e284-11ea-8fdc-40a0bb2c90ba.JPG">
@@ -89,7 +89,7 @@
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
 
-[see detail](https://github.com/GullyMac/Game)
+[see details](https://github.com/GullyMac/Game)
 
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/44144937/87465051-0feb0d00-c64f-11ea-9dd2-275f40d6f361.JPG">
