@@ -35,13 +35,13 @@
 #
 ### 프로젝트
 
-##### [Google Play Store Apps Rating Prediction](#-google-play-store-apps-rating-prediction)
+##### [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction-1)
 - 개인 프로젝트
 - 수행 기간 : 20.06.12 ~ 20.06.15 (4일)
 - 내용 : 회귀 모델링
 - 기술 : 언어 – Python / 툴 – Google Colab
 
-##### [StarCraft2 Player Data Analysis](#-starcraft2-player-data-analysis)
+##### [StarCraft2 Player Data Analysis](#starcraft2-player-data-analysis-1)
 - 팀 프로젝트 (3인, 경진대회 2위/94팀)
 - 수행 기간 : 20.03.01 ~ 20.04.15 (약 1.5개월)
 - 내용 : 이진 분류
