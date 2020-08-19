@@ -47,14 +47,12 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 #
 ### 프로젝트
 
-##### 서울시 골목상권 매출액 분석
+##### 서울시 골목상권 매출액 분석 [see detail](https://github.com/GullyMac/Sales-Working-)
 - 팀 프로젝트 (5인, 대한상공회의소 프로젝트 발표회 우수상)
 - 수행 기간 : 17.10.30 ~ 17.12.03 (약 1개월)
 - 내용 : 회귀 모델링, 클러스터링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
-
-[see detail](https://github.com/GullyMac/Sales-Working-)
 
 ##### [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction-1)
 - 개인 프로젝트
@@ -69,32 +67,26 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
 
-##### Astro Type Classification
+##### Astro Type Classification [see detail](https://github.com/GullyMac/Astro)
 - 팀 프로젝트 (2인, 경진대회 15위/350팀)
 - 수행 기간 : 20.02.01 ~ 20.02.29 (약 1개월)
 - 내용 : 다중 분류
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
 
-[see detail](https://github.com/GullyMac/Astro)
-
-##### Semiconductor Thin Film Thickness Prediction
+##### Semiconductor Thin Film Thickness Prediction [see detail](https://github.com/GullyMac/Semicon)
 - 팀 프로젝트 (2인, 경진대회 7위/226팀)
 - 수행 기간 : 20.01.02 ~ 20.02.02 (약 1개월)
 - 내용 : 회귀 모델링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
 
-[see detail](https://github.com/GullyMac/Semicon)
-
-##### Seoul's (Seoul, South Korea) Land Price Prediction
+##### Seoul's (Seoul, South Korea) Land Price Prediction [see detail](https://github.com/GullyMac/LandPrice)
 - 팀 프로젝트 (4인, 고려대학교 진리장학금 수상)
 - 수행 기간 : 17.10.30 ~ 17.12.03 (약 1개월)
 - 내용 : 회귀 모델링, 클러스터링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
-
-[see detail](https://github.com/GullyMac/LandPrice)
 
 ---
 
