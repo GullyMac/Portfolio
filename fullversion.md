@@ -53,6 +53,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 회귀 모델링, 클러스터링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
+
 [see detail](https://github.com/GullyMac/Sales-Working-)
 
 ##### [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction-1)
@@ -74,6 +75,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 다중 분류
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
+
 [see detail](https://github.com/GullyMac/Astro)
 
 ##### Semiconductor Thin Film Thickness Prediction
@@ -82,6 +84,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 회귀 모델링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
+
 [see detail](https://github.com/GullyMac/Semicon)
 
 ##### Seoul's (Seoul, South Korea) Land Price Prediction
@@ -90,6 +93,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 회귀 모델링, 클러스터링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
+
 [see detail](https://github.com/GullyMac/LandPrice)
 
 ---
