@@ -17,7 +17,7 @@
 - 팀원의 R 언어 사용 보조
 - 비즈니스 컨설팅을 위한 관계자 인터뷰 보조
 
-
+#
 ### 기술
 
 ##### 데이터 처리, 통계 분석 (중급)
@@ -32,7 +32,7 @@
 ##### 기초 프로그래밍, 서버 통신 구현 (입문)
 언어 : Java
 
-
+#
 ### 프로젝트
 
 ##### [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction)
@@ -47,7 +47,6 @@
 - 내용 : 이진 분류
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
-
 
 ---
 
