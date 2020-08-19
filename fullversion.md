@@ -47,7 +47,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 #
 ### 프로젝트
 
-##### 서울시 골목상권 매출액 분석 [see detail](https://github.com/GullyMac/Sales-Working-)
+##### 서울시 골목상권 매출액 분석 [see detail](https://github.com/GullyMac/Sales_incomplete)
 - 팀 프로젝트 (5인, 대한상공회의소 프로젝트 발표회 우수상)
 - 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
 - 내용 : 회귀 모델링, 클러스터링
