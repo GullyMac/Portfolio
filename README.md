@@ -48,6 +48,20 @@
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
 
+##### [서울시 골목상권 매출액 분석](#서울시-골목상권-매출액-분석-1)
+- 팀 프로젝트 (5인, 대한상공회의소 프로젝트 발표회 우수상)
+- 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
+- 내용 : 회귀 모델링, 클러스터링
+- 역할 : 데이터 전처리, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
+
+##### [서울시 공시지가 결정 요인 분석](#서울시-공시지가-결정-요인-분석-1)
+- 팀 프로젝트 (4인, 고려대학교 진리장학금 수상)
+- 수행 기간 : 17.10.30 ~ 17.12.03 (약 1개월)
+- 내용 : 회귀 모델링
+- 역할 : 데이터 전처리, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
+
 ---
 
 # Google Play Store Apps Rating Prediction
@@ -117,4 +131,82 @@
 </div>
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/44144937/90694374-7b11aa00-e2b3-11ea-9e64-a84d1f51e66f.jpg">
-</div>  
+</div>
+
+---
+
+# 서울시 골목상권 매출액 분석
+
+- 팀 프로젝트 (5인, 대한상공회의소 프로젝트 발표회 우수상)
+- 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
+- 내용 : 회귀 모델링, 클러스터링
+- 역할 : 데이터 전처리, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
+
+[see details](https://github.com/GullyMac/Sales_incomplete)
+
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812586-570ca200-e361-11ea-9a69-f583643e6d61.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812591-57a53880-e361-11ea-8c18-40547ceefcae.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812594-583dcf00-e361-11ea-82eb-0137640f6591.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812597-58d66580-e361-11ea-9143-e8e9a5f6333b.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812600-596efc00-e361-11ea-872d-190dfe008ab0.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812602-596efc00-e361-11ea-9935-dfe2b3941481.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812604-5a079280-e361-11ea-9434-dd77a5219f47.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812607-5aa02900-e361-11ea-9e86-9083a0b4c7d1.JPG">
+</div>                
+
+---
+
+# 서울시 공시지가 결정 요인 분석
+
+- 팀 프로젝트 (4인, 고려대학교 진리장학금 수상)
+- 수행 기간 : 17.10.30 ~ 17.12.03 (약 1개월)
+- 내용 : 회귀 모델링, 클러스터링
+- 역할 : 데이터 전처리, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
+
+[see details](https://github.com/GullyMac/LandPrice)
+
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813732-f5e5ce00-e362-11ea-8e79-9cf7da0bf3af.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813736-f67e6480-e362-11ea-87bf-e2e12d345878.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813738-f716fb00-e362-11ea-82c4-bd515f3c9a47.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813740-f7af9180-e362-11ea-8551-ad928cf072bd.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813741-f7af9180-e362-11ea-8a96-452be5fc1272.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813744-f8482800-e362-11ea-94b0-ebb9add5e89e.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813745-f8e0be80-e362-11ea-82b7-6807498d8122.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813746-f8e0be80-e362-11ea-8138-2353f5a3002f.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813747-f9795500-e362-11ea-8211-a24d41373f51.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813748-fa11eb80-e362-11ea-8fa4-06481f5eeec2.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813750-fa11eb80-e362-11ea-95f8-9a9d06455e83.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813751-faaa8200-e362-11ea-9be1-d8f9ee6bee86.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813753-fb431880-e362-11ea-9895-fefc699ef1d8.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813754-fb431880-e362-11ea-97d5-ffa20e7d5a80.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813756-fbdbaf00-e362-11ea-9e62-f50db87c8441.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813757-fc744580-e362-11ea-9e2c-3404c4556480.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813758-fc744580-e362-11ea-970b-b1439af0ea49.JPG">
+</div>
+
