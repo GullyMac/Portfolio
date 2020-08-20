@@ -47,7 +47,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 #
 ### 프로젝트
 
-##### 서울시 골목상권 매출액 분석 [see details](https://github.com/GullyMac/Sales_incomplete)
+##### [서울시 골목상권 매출액 분석](#서울시-골목상권-매출액-분석-1)
 - 팀 프로젝트 (5인, 대한상공회의소 프로젝트 발표회 우수상)
 - 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
 - 내용 : 회귀 모델링, 클러스터링
@@ -87,6 +87,35 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 회귀 모델링, 클러스터링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
+
+---
+
+# 서울시 골목상권 매출액 분석
+
+- 팀 프로젝트 (5인, 대한상공회의소 프로젝트 발표회 우수상)
+- 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
+- 내용 : 회귀 모델링, 클러스터링
+- 역할 : 데이터 전처리, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
+
+[see details](https://github.com/GullyMac/Sales_incomplete)
+
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812586-570ca200-e361-11ea-9a69-f583643e6d61.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812591-57a53880-e361-11ea-8c18-40547ceefcae.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812594-583dcf00-e361-11ea-82eb-0137640f6591.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812597-58d66580-e361-11ea-9143-e8e9a5f6333b.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812600-596efc00-e361-11ea-872d-190dfe008ab0.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812602-596efc00-e361-11ea-9935-dfe2b3941481.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812604-5a079280-e361-11ea-9434-dd77a5219f47.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812607-5aa02900-e361-11ea-9e86-9083a0b4c7d1.JPG">
+</div>                
 
 ---
 
