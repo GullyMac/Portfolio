@@ -1,5 +1,6 @@
 # 포트폴리오
 
+[![HitCount](http://hits.dwyl.com/GullyMac/Portfolio.svg)](http://hits.dwyl.com/GullyMac/Portfolio)
 
 ### 경험
 
