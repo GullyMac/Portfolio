@@ -60,7 +60,7 @@
 - 수행 기간 : 17.10.30 ~ 17.12.03 (약 1개월)
 - 내용 : 회귀 모델링
 - 역할 : 데이터 전처리
-- 기술 : 언어 – Python / 툴 – Google Colab
+- 기술 : 언어 – R / 툴 – R Studio
 
 ---
 
@@ -170,7 +170,7 @@
 - 수행 기간 : 17.10.30 ~ 17.12.03 (약 1개월)
 - 내용 : 회귀 모델링
 - 역할 : 데이터 전처리
-- 기술 : 언어 – Python / 툴 – Google Colab
+- 기술 : 언어 – R / 툴 – R Studio
 
 [see details](https://github.com/GullyMac/LandPrice)
 
