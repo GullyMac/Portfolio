@@ -1,4 +1,4 @@
-# 포트폴리오 [![HitCount](http://hits.dwyl.com/GullyMac/Portfolio.svg)](http://www.github.com/GullyMac/Portfolio)
+# 포트폴리오 [![HitCount](https://github.com/GullyMac/Portfolio.svg)](https://www.github.com/GullyMac/Portfolio)
 
 ### 경험
 
