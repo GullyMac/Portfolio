@@ -27,6 +27,18 @@
 - 역할 : 데이터 전처리
 - 기술 : 언어 – R / 툴 – R Studio
 
+##### Lifelog & Genome-wide Association Study
+- 팀 프로젝트 (5인)
+- 수행 기간 : 21.03.02 ~
+- 내용 : 로지스틱 회귀 모델링
+- 기술 : 언어 - R, Shell script / 툴 - Rstudio, Linux terminal, Plink (유전체 연관분석 소프트웨어), PRSice (Polygenic risk score 계산 소프트웨어)
+
+##### Patient-level Fall Risk Prediction
+- 팀 프로젝트 (5인~)
+- 수행 기간 : 21.02.01 ~ 21.06.28 (약 5개월)
+- 내용 : 이진 분류
+- 기술 : 언어 - SQL, R, Python / 툴 - Oracle, NotePad, Rstudio
+
 ---
 
 # Google Play Store Apps Rating Prediction
