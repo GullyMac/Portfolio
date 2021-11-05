@@ -3,6 +3,13 @@
 
 ### 경험
 
+##### 분당서울대학교병원 연구원 근무 (2021.01 ~ )
+ - 환자 의료정보 데이터 분석 (Patient-level Fall Risk Prediction)
+ - 유전체 데이터 분석 (Lifelog & Genome-wide Association Study)
+ - SQL, R, Python, Shell Script 등 활용
+ - 소스코드 커스터마이징
+ - 통계 분석 구체화 및 해석
+
 ##### 효성ITX 인턴 근무 (2020.09 ~ 2020.12, 약 4개월)
  - 경기도 양주시시설공단 파견
  - 공공데이터 발굴, 정제, 개방
