@@ -4,9 +4,10 @@
 ### 경험
 
 ##### 분당서울대학교병원 연구원 근무 (2021.01 ~ )
- - 환자 의료정보 데이터 분석 (Patient-level Fall Risk Prediction)
- - 유전체 데이터 분석 (Lifelog & Genome-wide Association Study)
+ - 환자 의료정보 데이터 분석
+ - 유전체 데이터 분석
  - SQL, R, Python, Shell Script 등 활용
+ - 문제 정의, 대상 환자 데이터 설정 및 
  - 소스코드 커스터마이징
  - 통계 분석 구체화 및 해석
 
@@ -57,6 +58,18 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 
 #
 ### 프로젝트
+
+##### Lifelog & Genome-wide Association Study
+- 팀 프로젝트 (5인)
+- 수행 기간 : 21.03.02 ~
+- 내용 : 로지스틱 회귀 모델링
+- 기술 : 언어 - R, Shell script / 툴 - Rstudio, Linux terminal, Plink (유전체 연관분석 소프트웨어), PRSice (Polygenic risk score 계산 소프트웨어)
+
+##### Patient-level Fall Risk Prediction
+- 팀 프로젝트 (5인~)
+- 수행 기간 : 21.02.01 ~ 21.06.28 (약 5개월)
+- 내용 : 이진 분류
+- 기술 : 언어 - SQL, R, Python / 툴 - Oracle, NotePad, Rstudio
 
 ##### [서울시 골목상권 매출액 분석](#서울시-골목상권-매출액-분석-1)
 - 팀 프로젝트 (5인, 대한상공회의소 프로젝트 발표회 우수상)
