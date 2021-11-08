@@ -126,7 +126,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 회귀 모델링
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
-- 
+
 ##### Outlier Detection using Convex Hull
 - 개인 프로젝트
 - 수행 기간 : (약 1일)
