@@ -3,51 +3,54 @@
 
 ### 경험
 
-##### 분당서울대학교병원 연구원 근무 (2021.01 ~ )
-- 환자 의료정보 데이터 분석
-- 유전체 데이터 분석
-- SQL, R, Python, Shell Script 등 활용
-- 문제 정의, 대상 환자 데이터 설정 및 
-- 소스코드 커스터마이징
-- 통계 분석 구체화 및 해석
+##### [Researcher] 분당서울대학교병원 (2021.01 ~ 현재)
+- Clinical & Genomic data analysis   
+- Source code customization & Experiment automation   
+- Data visualization   
+- Project :   
+1 Patient-level fall risk prediction   
+2 Lifelog & genome-wide association study about snoring   
+3 Cardiac arrest prediction using vital signs   
+4 Inpatients' length of stay prediction   
+- Tools : R, Python, SQL, Bash script   
 
-##### 효성ITX 인턴 근무 (2020.09 ~ 2020.12, 약 4개월)
-- 경기도 양주시시설공단 파견
-- 공공데이터 발굴, 정제, 개방
-- 공공데이터 품질 관리
+##### [Intern] 양주시시설관리공단 (2020.09 ~ 2020.12, 4개월)
+- Data discovery, cleansing and open to the public   
+- Tools : Excel   
 
-##### LG CNS 인턴 근무 (2019.07 ~ 2019.08, 약 1개월)
-- 금융 업무용 챗봇 성능 향상 과제 수행
-- Python 언어 활용
-- train 데이터의 비율, 알고리즘의 하이퍼파라미터 변화에 따른 성능 변화 측정
-- 보고서 작성 및 발표
+##### [Intern] LG CNS (2019.07 ~ 2019.08, 2개월)
+- Algorithm performance evaluation   
+- Project : Improved spacing performance of chatbot using CRF algorithm   
+- Tools : Python   
 
-##### 롯데멤버스 인턴 근무 (2018.11 ~ 2019.06, 약 7개월)
-- 점포/상품 데이터 클렌징
-- 데이터 분석 목적에 맞는 컬럼 생성, 텍스트 추출
-- Excel 활용하여 작업
-- 팀원의 R 언어 사용 보조
-- 비즈니스 컨설팅을 위한 관계자 인터뷰 보조
+##### [Intern] 롯데멤버스 (2018.11 ~ 2019.06, 8개월)
+- Data cleansing   
+- Product portfolio cunsulting assistant   
+- Tools : Excel, R   
 
-##### 기타 경험 (아르바이트)
-- 사무보조 (Excel VBA 활용 문서 작업 자동화)
+##### [Part-timer] 현대엔지니어링 (2017.02 ~ 2017.08, 7개월)
+- Paper work automation   
+- Tools : Excel VBA
+
+##### 기타 경험
 - 대입 논술 과외
-- 공연 현장 관리
 - 하우스키핑
-- 리서치 (해외 폐섬유 산업 동향, 해외 재난 안전 사례 조사)
-- 세미나 아웃바운드 홍보 및 진행
+- 해외 폐섬유 산업 동향, 해외 재난 안전 사례 리서치
+- 공공기관 대상 세미나 아웃바운드, 홍보물 제작 및 진행  
 
 #
 ### 교육
 
+##### 고려대학교 보건대학원 (2022.03 ~ , 재학)
+Master of Public Health - MPH Student, Health & Bio-Statsistics
+
+##### 고려대학교 (2015.03 ~ 2020.02, 졸업)
+Bachelor's degree, Statistics
+
 ##### 대한상공회의소 서울기술교육센터 (2020.04 ~ 2020.08, 약 4개월)
 Java 기반 빅데이터 플랫폼 구축 전문가 과정
 
-##### 고려대학교 서울캠퍼스 (2015.03 ~ 2020.02, 졸업)
-통계학 전공
-
 ##### 부산여자고등학교 (2012.03 ~ 2015.02, 졸업)
-인문
 
 #
 ### 기술
@@ -61,8 +64,26 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 ##### 웹 프로그래밍, 화면 구현 (입문)
 언어 : HTML, CSS, JavaScript
 
-##### 기초 프로그래밍, 서버 통신 구현 (입문)
-언어 : Java
+##### 기초 프로그래밍 (입문)
+언어 : Java, C, Bash script
+
+#
+### 수료/자격
+
+##### Statistical Analysis with R for Public Health 
+Coursera (2022.01)
+
+##### Publication-Ready Tables in R
+Coursera (2021.12)
+
+##### Epidemiology: The Basic Science of Public Health
+Coursera (2021.11)
+
+##### ADsP
+한국데이터산업진흥원 (2021.06)
+
+##### SQLD
+한국데이터산업진흥원 (2020.06)
 
 #
 ### 프로젝트
