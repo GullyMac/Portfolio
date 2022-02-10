@@ -3,7 +3,7 @@
 
 ### 경험
 
-##### [Researcher] 분당서울대학교병원 (2021.01 ~ 현재)
+**[Researcher] 분당서울대학교병원** (2021.01 ~ 현재)
 - Clinical & Genomic data analysis   
 - Source code customization & Experiment automation   
 - Data visualization   
@@ -14,76 +14,65 @@
 4 Inpatients' length of stay prediction   
 - Tools : R, Python, SQL, Bash script   
 
-##### [Intern] 양주시시설관리공단 (2020.09 ~ 2020.12, 4개월)
+**[Intern] 양주시시설관리공단** (2020.09 ~ 2020.12, 4개월)
 - Data discovery, cleansing and open to the public   
 - Tools : Excel   
 
-##### [Intern] LG CNS (2019.07 ~ 2019.08, 2개월)
+**[Intern] LG CNS** (2019.07 ~ 2019.08, 2개월)
 - Algorithm performance evaluation   
 - Project : Improved spacing performance of chatbot using CRF algorithm   
 - Tools : Python   
 
-##### [Intern] 롯데멤버스 (2018.11 ~ 2019.06, 8개월)
+**[Intern] 롯데멤버스** (2018.11 ~ 2019.06, 8개월)
 - Data cleansing   
 - Product portfolio cunsulting assistant   
 - Tools : Excel, R   
 
-##### [Part-timer] 현대엔지니어링 (2017.02 ~ 2017.08, 7개월)
+**[Part-timer] 현대엔지니어링** (2017.02 ~ 2017.08, 7개월)
 - Paper work automation   
 - Tools : Excel VBA
-
-##### 기타 경험
-- 대입 논술 과외
-- 하우스키핑
-- 해외 폐섬유 산업 동향, 해외 재난 안전 사례 리서치
-- 공공기관 대상 세미나 아웃바운드, 홍보물 제작 및 진행  
 
 #
 ### 교육
 
-##### 고려대학교 보건대학원 (2022.03 ~ , 재학)
-Master of Public Health - MPH Student, Health & Bio-Statsistics
+**고려대학교 보건대학원** (2022.03 ~ , 재학)   
+Master of Public Health - MPH Student, Health & Bio-Statsistics   
 
-##### 고려대학교 (2015.03 ~ 2020.02, 졸업)
-Bachelor's degree, Statistics
+**고려대학교** (2015.03 ~ 2020.02, 졸업)   
+Bachelor's degree, Statistics   
 
-##### 대한상공회의소 서울기술교육센터 (2020.04 ~ 2020.08, 약 4개월)
-Java 기반 빅데이터 플랫폼 구축 전문가 과정
+**대한상공회의소 서울기술교육센터** (2020.04 ~ 2020.08, 약 4개월)   
+Java 기반 빅데이터 플랫폼 구축 전문가 과정   
 
-##### 부산여자고등학교 (2012.03 ~ 2015.02, 졸업)
+**부산여자고등학교** (2012.03 ~ 2015.02, 졸업)   
 
 #
 ### 기술
 
-##### 데이터 처리, 통계 분석 (중급)
-언어 : Python, R, SAS
+**데이터 처리, 통계 분석** (중급)   
+언어 : Python, R, SAS   
 
-##### 데이터베이스 관리 (초급)
-언어 : SQL
+**데이터베이스 관리** (중급)   
+언어 : SQL   
 
-##### 웹 프로그래밍, 화면 구현 (입문)
-언어 : HTML, CSS, JavaScript
+**웹 프로그래밍, 화면 구현** (입문)   
+언어 : HTML, CSS, JavaScript   
 
-##### 기초 프로그래밍 (입문)
-언어 : Java, C, Bash script
+**기초 프로그래밍** (입문)   
+언어 : Java, C, Bash script   
 
 #
 ### 수료/자격
 
-##### Statistical Analysis with R for Public Health   
-(Coursera, 2022.01)
+**Statistical Analysis with R for Public Health** (Coursera, 2022.01)
 
-##### Publication-Ready Tables in R    
-(Coursera, 2021.12)
+**Publication-Ready Tables in R** (Coursera, 2021.12)
 
-##### Epidemiology: The Basic Science of Public Health   
-(Coursera, 2021.11)
+**Epidemiology: The Basic Science of Public Health** (Coursera, 2021.11)
 
-##### ADsP   
-(한국데이터산업진흥원, 2021.06)
+**ADsP** (한국데이터산업진흥원, 2021.06)
 
-##### SQLD   
-(한국데이터산업진흥원, 2020.06)
+**SQLD** (한국데이터산업진흥원, 2020.06)
 
 #
 ### 프로젝트
