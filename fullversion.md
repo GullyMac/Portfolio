@@ -70,20 +70,20 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 #
 ### 수료/자격
 
-##### Statistical Analysis with R for Public Health 
-Coursera (2022.01)
+##### Statistical Analysis with R for Public Health   
+(Coursera, 2022.01)
 
-##### Publication-Ready Tables in R
-Coursera (2021.12)
+##### Publication-Ready Tables in R    
+(Coursera, 2021.12)
 
-##### Epidemiology: The Basic Science of Public Health
-Coursera (2021.11)
+##### Epidemiology: The Basic Science of Public Health   
+(Coursera, 2021.11)
 
-##### ADsP
-한국데이터산업진흥원 (2021.06)
+##### ADsP   
+(한국데이터산업진흥원, 2021.06)
 
-##### SQLD
-한국데이터산업진흥원 (2020.06)
+##### SQLD   
+(한국데이터산업진흥원, 2020.06)
 
 #
 ### 프로젝트
