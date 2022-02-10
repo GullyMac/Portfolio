@@ -1,4 +1,107 @@
-# 프로젝트
+# 포트폴리오
+
+
+### 경험
+
+**[Researcher] 분당서울대학교병원** (2021.01 ~ 현재)
+- Clinical & Genomic data analysis   
+- Source code customization & Experiment automation   
+- Data visualization   
+- Project :   
+1 Patient-level fall risk prediction   
+2 Lifelog & genome-wide association study about snoring   
+3 Cardiac arrest prediction using vital signs   
+4 Inpatients' length of stay prediction   
+- Tools : R, Python, SQL, Bash script   
+
+**[Intern] 양주시시설관리공단** (2020.09 ~ 2020.12, 4개월)
+- Data discovery, cleansing and open to the public   
+- Tools : Excel   
+
+**[Intern] LG CNS** (2019.07 ~ 2019.08, 2개월)
+- Algorithm performance evaluation   
+- Project : Improved spacing performance of chatbot using CRF algorithm   
+- Tools : Python   
+
+**[Intern] 롯데멤버스** (2018.11 ~ 2019.06, 8개월)
+- Data cleansing   
+- Product portfolio cunsulting assistant   
+- Tools : Excel, R   
+
+**[Part-timer] 현대엔지니어링** (2017.02 ~ 2017.08, 7개월)
+- Paper work automation   
+- Tools : Excel VBA
+
+#
+### 교육
+
+**고려대학교 보건대학원** (2022.03 ~ , 재학)   
+Master of Public Health - MPH Student, Health & Bio-Statsistics   
+
+**고려대학교** (2015.03 ~ 2020.02, 졸업)   
+Bachelor's degree, Statistics   
+
+**대한상공회의소 서울기술교육센터** (2020.04 ~ 2020.08, 약 4개월)   
+Java 기반 빅데이터 플랫폼 구축 전문가 과정   
+
+**부산여자고등학교** (2012.03 ~ 2015.02, 졸업)   
+
+#
+### 기술
+
+**데이터 처리, 통계 분석** (중급)   
+언어 : Python, R, SAS   
+
+**데이터베이스 관리** (중급)   
+언어 : SQL   
+
+**웹 프로그래밍, 화면 구현** (입문)   
+언어 : HTML, CSS, JavaScript   
+
+**기초 프로그래밍** (입문)   
+언어 : Java, C, Bash script   
+
+#
+### 수료/자격
+
+**Statistical Analysis with R for Public Health** (Coursera, 2022.01)
+
+**Publication-Ready Tables in R** (Coursera, 2021.12)
+
+**Epidemiology: The Basic Science of Public Health** (Coursera, 2021.11)
+
+**ADsP** (한국데이터산업진흥원, 2021.06)
+
+**SQLD** (한국데이터산업진흥원, 2020.06)
+
+#
+### 프로젝트
+
+##### Lifelog & Genome-wide Association Study
+- 팀 프로젝트 (5인)
+- 수행 기간 : 21.03.02 ~
+- 내용 : 로지스틱 회귀 모델링
+- 기술 : 언어 - R, Shell script / 툴 - Rstudio, Linux terminal, Plink (유전체 연관분석 소프트웨어), PRSice (Polygenic risk score 계산 소프트웨어)
+
+##### Patient-level Fall Risk Prediction
+- 팀 프로젝트 (5인~)
+- 수행 기간 : 21.02.01 ~ 21.06.28 (약 5개월)
+- 내용 : 이진 분류
+- 기술 : 언어 - SQL, R, Python / 툴 - Oracle, NotePad, Rstudio
+
+##### [서울시 골목상권 매출액 분석](#서울시-골목상권-매출액-분석-1)
+- 팀 프로젝트 (5인, 대한상공회의소 프로젝트 발표회 우수상)
+- 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
+- 내용 : 클러스터링, 회귀 모델링
+- 역할 : 모델링, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
+
+##### 식물 병충해 예측
+- 팀 프로젝트 (2인)
+- 수행 기간 : (약 2주)
+- 내용 : 이진 분류, 이미지 프로세싱
+- 역할 : 데이터 전처리, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
 
 ##### [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction-1)
 - 개인 프로젝트
@@ -13,31 +116,80 @@
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
 
-##### [서울시 골목상권 매출액 분석 (정리중)](#서울시-골목상권-매출액-분석)
-- 팀 프로젝트 (5인)
-- 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
-- 내용 : 클러스터링, 회귀 모델링
-- 역할 : 모델링, 소스코드 커스터마이징
+##### Astro Type Classification [see details](https://github.com/GullyMac/Astro)
+- 팀 프로젝트 (2인, 경진대회 15위/350팀)
+- 수행 기간 : 20.02.01 ~ 20.02.29 (약 1개월)
+- 내용 : 다중 분류
+- 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
 
-##### [서울시 공시지가 결정 요인 분석 (정리중)](#서울시-공시지가-결정-요인-분석)
-- 팀 프로젝트 (4인)
+##### Semiconductor Thin Film Thickness Prediction [see details](https://github.com/GullyMac/Semicon)
+- 팀 프로젝트 (2인, 경진대회 7위/226팀)
+- 수행 기간 : 20.01.02 ~ 20.02.02 (약 1개월)
+- 내용 : 회귀 모델링
+- 역할 : 데이터 전처리, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
+
+##### 제주시 퇴근시간 버스승차인원 예측 경진대회
+- 팀 프로젝트 (2인)
+- 수행 기간 : 20.01.02 ~ 20.02.02 (약 1개월)
+- 내용 : 회귀 모델링
+- 역할 : 데이터 전처리, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
+
+##### Outlier Detection using Convex Hull [see details](https://github.com/GullyMac/ConvexHull/blob/main/ConvexHull_허은정.pdf)
+- 개인 프로젝트
+- 수행 기간 : (약 1일)
+- 내용 :
+- 기술 : 언어 - R / 툴 - R Studio
+
+##### 김환기 in R [see details](https://github.com/GullyMac/ArtInR/blob/main/김환기inR_허은정.pdf)
+- 개인 프로젝트
+- 수행 기간 : (약 1일)
+- 내용 :
+- 기술 : 언어 - R / 툴 - R Studio
+
+##### [서울시 공시지가 결정 요인 분석](#서울시-공시지가-결정-요인-분석-1)
+- 팀 프로젝트 (4인, 고려대학교 진리장학금 수상)
 - 수행 기간 : 17.10.30 ~ 17.12.03 (약 1개월)
 - 내용 : 회귀 모델링
 - 역할 : 데이터 전처리
 - 기술 : 언어 – R / 툴 – R Studio
 
-##### Lifelog & Genome-wide Association Study
-- 팀 프로젝트 (5인)
-- 수행 기간 : 21.03.02 ~
-- 내용 : 로지스틱 회귀 모델링
-- 기술 : 언어 - R, Shell script / 툴 - Rstudio, Linux terminal, Plink (유전체 연관분석 소프트웨어), PRSice (Polygenic risk score 계산 소프트웨어)
+##### 한국외식산업연구원(K-firi) 아이디어 공모전
+- 팀 프로젝트 (4인)
+- 수행 기간 : (약 1개월)
+- 내용 : 
+- 역할 : 아이디어 적용 타겟 세분화, 서비스 네이밍
 
-##### Patient-level Fall Risk Prediction
-- 팀 프로젝트 (5인~)
-- 수행 기간 : 21.02.01 ~ 21.06.28 (약 5개월)
-- 내용 : 이진 분류
-- 기술 : 언어 - SQL, R, Python / 툴 - Oracle, NotePad, Rstudio
+---
+
+# 서울시 골목상권 매출액 분석
+
+- 팀 프로젝트 (5인, 대한상공회의소 프로젝트 발표회 우수상)
+- 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
+- 내용 : 클러스터링, 회귀 모델링
+- 역할 : 모델링, 소스코드 커스터마이징
+- 기술 : 언어 – Python / 툴 – Google Colab
+
+[see details](https://github.com/GullyMac/Sales_incomplete)
+
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812586-570ca200-e361-11ea-9a69-f583643e6d61.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812591-57a53880-e361-11ea-8c18-40547ceefcae.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812594-583dcf00-e361-11ea-82eb-0137640f6591.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812597-58d66580-e361-11ea-9143-e8e9a5f6333b.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812600-596efc00-e361-11ea-872d-190dfe008ab0.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812602-596efc00-e361-11ea-9935-dfe2b3941481.JPG">
+</div>
+<div>
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812604-5a079280-e361-11ea-9434-dd77a5219f47.JPG">
+  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812607-5aa02900-e361-11ea-9e86-9083a0b4c7d1.JPG">
+</div>                
 
 ---
 
@@ -108,42 +260,13 @@
 </div>
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/44144937/90694374-7b11aa00-e2b3-11ea-9e64-a84d1f51e66f.jpg">
-</div>
-
----
-
-# 서울시 골목상권 매출액 분석
-
-- 팀 프로젝트 (5인)
-- 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
-- 내용 : 클러스터링, 회귀 모델링
-- 역할 : 모델링, 소스코드 커스터마이징
-- 기술 : 언어 – Python / 툴 – Google Colab
-
-[see details](https://github.com/GullyMac/Sales_incomplete)
-
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812586-570ca200-e361-11ea-9a69-f583643e6d61.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812591-57a53880-e361-11ea-8c18-40547ceefcae.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812594-583dcf00-e361-11ea-82eb-0137640f6591.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812597-58d66580-e361-11ea-9143-e8e9a5f6333b.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812600-596efc00-e361-11ea-872d-190dfe008ab0.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812602-596efc00-e361-11ea-9935-dfe2b3941481.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812604-5a079280-e361-11ea-9434-dd77a5219f47.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812607-5aa02900-e361-11ea-9e86-9083a0b4c7d1.JPG">
-</div>                
+</div>  
 
 ---
 
 # 서울시 공시지가 결정 요인 분석
 
-- 팀 프로젝트 (4인)
+- 팀 프로젝트 (4인, 고려대학교 진리장학금 수상)
 - 수행 기간 : 17.10.30 ~ 17.12.03 (약 1개월)
 - 내용 : 회귀 모델링
 - 역할 : 데이터 전처리
