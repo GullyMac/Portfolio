@@ -137,13 +137,13 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
 
-##### Outlier Detection using Convex Hull
+##### Outlier Detection using Convex Hull [see details](https://github.com/GullyMac/ConvexHull/blob/main/ConvexHull_허은정.pdf)
 - 개인 프로젝트
 - 수행 기간 : (약 1일)
 - 내용 :
 - 기술 : 언어 - R / 툴 - R Studio
 
-##### 김환기 in R
+##### 김환기 in R [see details](https://github.com/GullyMac/ArtInR/blob/main/김환기inR_허은정.pdf)
 - 개인 프로젝트
 - 수행 기간 : (약 1일)
 - 내용 :
