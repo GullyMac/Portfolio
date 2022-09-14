@@ -82,6 +82,18 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 #
 ### 프로젝트
 
+##### Inpatients' length of stay prediction
+- 팀 프로젝트 (5인~)
+- 수행 기간 : 21.11.01 ~ 21.12.31 (약 1개월)
+- 내용 : 이진 분류, 회귀 모델링
+- 기술 : 언어 - SQL, R / 툴 - Oracle, NotePad, Rstudio
+
+##### Cardiac arrest prediction using vital signs
+- 팀 프로젝트 (4인)
+- 수행 기간 : 21.11.01 ~ 21.12.31 (약 1개월)
+- 내용 : 이진 분류
+- 기술 : 언어 - Python / 툴 - Jupyter Notebook
+
 ##### Lifelog & Genome-wide Association Study
 - 팀 프로젝트 (5인)
 - 수행 기간 : 21.03.02 ~ 22.06.30 (약 1년 3개월)
