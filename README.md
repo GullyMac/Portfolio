@@ -3,7 +3,12 @@
 
 ### 경험
 
-**[Researcher] 분당서울대학교병원** (2021.01 ~ 현재)
+**[Intern] NH농협은행** (2022.07 ~ 2022.08, 2개월)
+- Bank credit & Allowance for bad debts management   
+- Project : Reserve management plan through data analysis   
+- Tools : SAS, SQL, Excel  
+
+**[Researcher] 분당서울대학교병원** (2021.01 ~ 2022.06, 1년 6개월)
 - Clinical & Genomic data analysis   
 - Source code customization & Experiment automation   
 - Data visualization   
@@ -79,7 +84,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 
 ##### Lifelog & Genome-wide Association Study
 - 팀 프로젝트 (5인)
-- 수행 기간 : 21.03.02 ~
+- 수행 기간 : 21.03.02 ~ 22.06.30 (약 1년 3개월)
 - 내용 : 로지스틱 회귀 모델링
 - 기술 : 언어 - R, Shell script / 툴 - Rstudio, Linux terminal, Plink (유전체 연관분석 소프트웨어), PRSice (Polygenic risk score 계산 소프트웨어)
 
