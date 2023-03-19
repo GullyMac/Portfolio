@@ -2,22 +2,22 @@
 
 ### 경험
 
-**[Researcher] 국립중앙의료원** (2022.10 ~ 현재)
-- Find Medical Underserved Area
-- Make Resource of Public Healthcare Policy
-- Statistical Analysis
-- Tools : SAS, R, Excel
+**[연구원] 국립중앙의료원** (2022.10 ~ 현재)
+- 의료취약지 모니터링 연구
+- 공공의료정책 기초자료 생성
+- 통계 분석
+- 도구 : SAS, R, Excel
 
-**[Researcher] 분당서울대학교병원** (2021.01 ~ 2022.06, 1년 5개월)
-- Clinical & Genomic data analysis   
-- Source code customization & Experiment automation   
-- Data visualization   
-- Project :   
+**[연구원] 분당서울대학교병원** (2021.01 ~ 2022.06, 1년 5개월)
+- 임상 & 유전체 데이터 분석   
+- 소스코드 커스터마이징 & 실험 자동화   
+- 데이터 시각화   
+- 프로젝트 :   
 1 Patient-level fall risk prediction   
 2 Lifelog & genome-wide association study about snoring   
 3 Cardiac arrest prediction using vital signs   
 4 Inpatients' length of stay prediction   
-- Tools : R, Python, SQL, Bash script   
+- 도구 : R, Python, SQL, Bash script   
 
 #
 ### 기술
