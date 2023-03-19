@@ -3,7 +3,18 @@
 
 ### 경험
 
-**[Researcher] 분당서울대학교병원** (2021.01 ~ 현재)
+**[Researcher] 국립중앙의료원** (2022.10 ~ 현재)
+- Find Medical Underserved Area
+- Make Resource of Public Healthcare Policy
+- Statistical Analysis
+- Tools : SAS, R, Excel
+
+**[Intern] NH농협은행** (2022.07 ~ 2022.08, 약 2개월)
+- Bank credit & Allowance for bad debts management
+- Project : Reserve management planning through data analysis
+- Tools : SAS, SQL, Excel
+
+**[Researcher] 분당서울대학교병원** (2021.01 ~ 2022.06, 1년 5개월)
 - Clinical & Genomic data analysis   
 - Source code customization & Experiment automation   
 - Data visualization   
@@ -50,7 +61,7 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 ### 기술
 
 **데이터 처리, 통계 분석** (중급)   
-언어 : Python, R, SAS   
+언어 : Python, R, SAS, SPSS   
 
 **데이터베이스 관리** (중급)   
 언어 : SQL   
@@ -77,13 +88,13 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 #
 ### 프로젝트
 
-##### Lifelog & Genome-wide Association Study
+##### Lifelog & Genome-wide Association Study [see details](https://doi.org/10.21203/rs.3.rs-2079409/v1)
 - 팀 프로젝트 (5인)
 - 수행 기간 : 21.03.02 ~
 - 내용 : 로지스틱 회귀 모델링
 - 기술 : 언어 - R, Shell script / 툴 - Rstudio, Linux terminal, Plink (유전체 연관분석 소프트웨어), PRSice (Polygenic risk score 계산 소프트웨어)
 
-##### Patient-level Fall Risk Prediction
+##### Patient-level Fall Risk Prediction [see details](https://medinform.jmir.org/2022/3/e35104/)
 - 팀 프로젝트 (5인~)
 - 수행 기간 : 21.02.01 ~ 21.06.28 (약 5개월)
 - 내용 : 이진 분류
