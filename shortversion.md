@@ -2,26 +2,22 @@
 
 ### 경험
 
-##### NH농협은행 인턴 근무 (2022.07 ~ 2022.08, 약 2개월)
+**[Researcher] 국립중앙의료원** (2022.10 ~ 현재)
+- Find Medical Underserved Area
+- Make Resource of Public Healthcare Policy
+- Statistical Analysis
+- Tools : SAS, R, Excel
 
-- 여신 관리 및 대손충당금 산출 업무
-- SAS, SQL 활용
-- 데이터 분석을 통한 충당금 관리 방안 발표
-
-##### LG CNS 인턴 근무 (2019.07 ~ 2019.08, 약 1개월)
-
-- 금융 업무용 챗봇 성능 향상 과제 수행
-- Python 언어 활용
-- train 데이터의 비율, 알고리즘의 하이퍼파라미터 변화에 따른 성능 변화 측정
-- 보고서 작성 및 발표
-
-##### 롯데멤버스 인턴 근무 (2018.11 ~ 2019.06, 약 7개월)
-
-- 점포/상품 데이터 클렌징
-- 데이터 분석 목적에 맞는 컬럼 생성, 텍스트 추출
-- Excel 활용하여 작업
-- 팀원의 R 언어 사용 보조
-- 비즈니스 컨설팅을 위한 관계자 인터뷰 보조
+**[Researcher] 분당서울대학교병원** (2021.01 ~ 2022.06, 1년 5개월)
+- Clinical & Genomic data analysis   
+- Source code customization & Experiment automation   
+- Data visualization   
+- Project :   
+1 Patient-level fall risk prediction   
+2 Lifelog & genome-wide association study about snoring   
+3 Cardiac arrest prediction using vital signs   
+4 Inpatients' length of stay prediction   
+- Tools : R, Python, SQL, Bash script   
 
 #
 ### 기술
@@ -39,7 +35,26 @@
 언어 : Java
 
 #
+### 수료/자격
+
+**ADsP** (한국데이터산업진흥원, 2021.06)
+
+**SQLD** (한국데이터산업진흥원, 2020.06)
+
+#
 ### 프로젝트
+
+##### Lifelog & Genome-wide Association Study [see details](https://doi.org/10.21203/rs.3.rs-2079409/v1)
+- 팀 프로젝트 (5인)
+- 수행 기간 : 21.03.02 ~
+- 내용 : 로지스틱 회귀 모델링
+- 기술 : 언어 - R, Shell script / 툴 - Rstudio, Linux terminal, Plink (유전체 연관분석 소프트웨어), PRSice (Polygenic risk score 계산 소프트웨어)
+
+##### Patient-level Fall Risk Prediction [see details](https://medinform.jmir.org/2022/3/e35104/)
+- 팀 프로젝트 (5인~)
+- 수행 기간 : 21.02.01 ~ 21.06.28 (약 5개월)
+- 내용 : 이진 분류
+- 기술 : 언어 - SQL, R, Python / 툴 - Oracle, NotePad, Rstudio
 
 ##### [Google Play Store Apps Rating Prediction](#google-play-store-apps-rating-prediction-1)
 - 개인 프로젝트
@@ -53,20 +68,6 @@
 - 내용 : 이진 분류
 - 역할 : 데이터 전처리, 소스코드 커스터마이징
 - 기술 : 언어 – Python / 툴 – Google Colab
-
-##### [서울시 골목상권 매출액 분석 (정리중)](#서울시-골목상권-매출액-분석)
-- 팀 프로젝트 (5인)
-- 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
-- 내용 : 클러스터링, 회귀 모델링
-- 역할 : 모델링, 소스코드 커스터마이징
-- 기술 : 언어 – Python / 툴 – Google Colab
-
-##### [서울시 공시지가 결정 요인 분석 (정리중)](#서울시-공시지가-결정-요인-분석)
-- 팀 프로젝트 (4인)
-- 수행 기간 : 17.10.30 ~ 17.12.03 (약 1개월)
-- 내용 : 회귀 모델링
-- 역할 : 데이터 전처리
-- 기술 : 언어 – R / 툴 – R Studio
 
 ---
 
@@ -138,81 +139,3 @@
 <div>
   <img width="400" src="https://user-images.githubusercontent.com/44144937/90694374-7b11aa00-e2b3-11ea-9e64-a84d1f51e66f.jpg">
 </div>
-
----
-
-# 서울시 골목상권 매출액 분석
-
-- 팀 프로젝트 (5인)
-- 수행 기간 : 20.07.20 ~ 20.07.31 (약 2주)
-- 내용 : 클러스터링, 회귀 모델링
-- 역할 : 모델링, 소스코드 커스터마이징
-- 기술 : 언어 – Python / 툴 – Google Colab
-
-[see details](https://github.com/GullyMac/Sales_incomplete)
-
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812586-570ca200-e361-11ea-9a69-f583643e6d61.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812591-57a53880-e361-11ea-8c18-40547ceefcae.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812594-583dcf00-e361-11ea-82eb-0137640f6591.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812597-58d66580-e361-11ea-9143-e8e9a5f6333b.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812600-596efc00-e361-11ea-872d-190dfe008ab0.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812602-596efc00-e361-11ea-9935-dfe2b3941481.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812604-5a079280-e361-11ea-9434-dd77a5219f47.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90812607-5aa02900-e361-11ea-9e86-9083a0b4c7d1.JPG">
-</div>                
-
----
-
-# 서울시 공시지가 결정 요인 분석
-
-- 팀 프로젝트 (4인)
-- 수행 기간 : 17.10.30 ~ 17.12.03 (약 1개월)
-- 내용 : 회귀 모델링
-- 역할 : 데이터 전처리
-- 기술 : 언어 – R / 툴 – R Studio
-
-[see details](https://github.com/GullyMac/LandPrice)
-
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813732-f5e5ce00-e362-11ea-8e79-9cf7da0bf3af.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813736-f67e6480-e362-11ea-87bf-e2e12d345878.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813738-f716fb00-e362-11ea-82c4-bd515f3c9a47.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813740-f7af9180-e362-11ea-8551-ad928cf072bd.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813741-f7af9180-e362-11ea-8a96-452be5fc1272.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813744-f8482800-e362-11ea-94b0-ebb9add5e89e.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813745-f8e0be80-e362-11ea-82b7-6807498d8122.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813746-f8e0be80-e362-11ea-8138-2353f5a3002f.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813747-f9795500-e362-11ea-8211-a24d41373f51.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813748-fa11eb80-e362-11ea-8fa4-06481f5eeec2.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813750-fa11eb80-e362-11ea-95f8-9a9d06455e83.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813751-faaa8200-e362-11ea-9be1-d8f9ee6bee86.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813753-fb431880-e362-11ea-9895-fefc699ef1d8.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813754-fb431880-e362-11ea-97d5-ffa20e7d5a80.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813756-fbdbaf00-e362-11ea-9e62-f50db87c8441.JPG">
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813757-fc744580-e362-11ea-9e2c-3404c4556480.JPG">
-</div>
-<div>
-  <img width="400" src="https://user-images.githubusercontent.com/44144937/90813758-fc744580-e362-11ea-970b-b1439af0ea49.JPG">
-</div>
-
