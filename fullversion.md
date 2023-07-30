@@ -75,12 +75,6 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 #
 ### 수료/자격
 
-**Statistical Analysis with R for Public Health** (Coursera, 2022.01)
-
-**Publication-Ready Tables in R** (Coursera, 2021.12)
-
-**Epidemiology: The Basic Science of Public Health** (Coursera, 2021.11)
-
 **ADsP** (한국데이터산업진흥원, 2021.06)
 
 **SQLD** (한국데이터산업진흥원, 2020.06)
@@ -151,13 +145,13 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 ##### Outlier Detection using Convex Hull [see details](https://github.com/GullyMac/ConvexHull/blob/main/ConvexHull_허은정.pdf)
 - 개인 프로젝트
 - 수행 기간 : (약 1일)
-- 내용 :
+- 내용 : Convex Hull(볼록 껍질)을 활용한 이상치 탐색
 - 기술 : 언어 - R / 툴 - R Studio
 
 ##### 김환기 in R [see details](https://github.com/GullyMac/ArtInR/blob/main/김환기inR_허은정.pdf)
 - 개인 프로젝트
 - 수행 기간 : (약 1일)
-- 내용 :
+- 내용 : R의 시각화 도구를 활용하여 미술 작품 재현
 - 기술 : 언어 - R / 툴 - R Studio
 
 ##### [서울시 공시지가 결정 요인 분석](#서울시-공시지가-결정-요인-분석-1)
@@ -166,12 +160,6 @@ Java 기반 빅데이터 플랫폼 구축 전문가 과정
 - 내용 : 회귀 모델링
 - 역할 : 데이터 전처리
 - 기술 : 언어 – R / 툴 – R Studio
-
-##### 한국외식산업연구원(K-firi) 아이디어 공모전
-- 팀 프로젝트 (4인)
-- 수행 기간 : (약 1개월)
-- 내용 : 
-- 역할 : 아이디어 적용 타겟 세분화, 서비스 네이밍
 
 ---
 
